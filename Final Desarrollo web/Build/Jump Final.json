@@ -1,0 +1,13 @@
+{
+"companyName": "Zombie",
+"productName": "Plataforma 2d",
+"dataUrl": "Jump Final.data.unityweb",
+"asmCodeUrl": "Jump Final.asm.code.unityweb",
+"asmMemoryUrl": "Jump Final.asm.memory.unityweb",
+"asmFrameworkUrl": "Jump Final.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
